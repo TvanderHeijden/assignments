@@ -6,3 +6,5 @@ this repository contains my assignments
 [assignment 3](https://github.com/TvanderHeijden/assignments/blob/master/assignment3timvanderheijden.ipynb)
 
 [assignment 4](https://github.com/TvanderHeijden/assignments/blob/master/assignment4timvanderheijden%20(1).ipynb)
+
+[graded assignment 1](https://github.com/TvanderHeijden/assignments/blob/master/Graded_assignment1%20timvanderheijden.ipynb)
