@@ -8,3 +8,5 @@ this repository contains my assignments
 [assignment 4](https://github.com/TvanderHeijden/assignments/blob/master/assignment4timvanderheijden%20(1).ipynb)
 
 [graded assignment 1](https://github.com/TvanderHeijden/assignments/blob/master/Graded_assignment1%20timvanderheijden.ipynb)
+
+[graded assignment 2](https://github.com/TvanderHeijden/assignments/blob/master/Graded_assignment_2TimvanderHeijden%20(1).ipynb)
