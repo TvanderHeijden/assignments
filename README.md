@@ -12,3 +12,5 @@ this repository contains my assignments
 [graded assignment 2](https://github.com/TvanderHeijden/assignments/blob/master/Graded_assignment_2TimvanderHeijden%20(1).ipynb)
 
 [Final R assignment](https://github.com/TvanderHeijden/assignments/blob/master/Exam_student%20Tim%20and%20Jelle.ipynb)
+
+[Final Python assignment](https://github.com/TvanderHeijden/assignments/blob/master/exam_june_7_2018%20Tim%20and%20Jelle.ipynb)
